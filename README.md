@@ -55,3 +55,5 @@ This shows the importance of placing strong call-to-action elements in web desig
 - Install required libraries:
 - pip install pandas matplotlib seaborn
 - Run the script: python customer.py
+
+Thank you
